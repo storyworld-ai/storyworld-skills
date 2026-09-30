@@ -7,5 +7,6 @@
   },
   "homepage": "https://storyworld.ai",
   "repository": "https://github.com/storyworld-ai/storyworld-skills",
+  "license": "MIT",
   "keywords": ["storyworld", "mcp", "video", "film", "screenplay"]
 }

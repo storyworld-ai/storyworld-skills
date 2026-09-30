@@ -52,3 +52,7 @@ In Claude Code, you can explicitly invoke the plugin skill with `/storyworld:sto
 ## Source
 
 Published from Storyworld's platform repository, where the tests that check the Storyworld MCP server also check that every tool this skill names still exists. Changes made here directly are overwritten on the next publish.
+
+## License
+
+[MIT](LICENSE)
