@@ -1,0 +1,11 @@
+{
+  "name": "storyworld",
+  "description": "Use the Storyworld MCP server well: find the project, follow the shot method, write screenplays, quote credits before generating and recover from refusals.",
+  "author": {
+    "name": "Storyworld",
+    "url": "https://storyworld.ai"
+  },
+  "homepage": "https://storyworld.ai",
+  "repository": "https://github.com/storyworld-ai/storyworld-skills",
+  "keywords": ["storyworld", "mcp", "video", "film", "screenplay"]
+}

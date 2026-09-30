@@ -1,0 +1,15 @@
+{
+  "name": "storyworld-ai",
+  "description": "The Storyworld skill: how an agent directs shots, writes screenplays and generates video through the Storyworld MCP server.",
+  "owner": {
+    "name": "Storyworld",
+    "url": "https://storyworld.ai"
+  },
+  "plugins": [
+    {
+      "name": "storyworld",
+      "description": "Use the Storyworld MCP server well: find the project, follow the shot method, write screenplays, quote credits before generating and recover from refusals.",
+      "source": "./"
+    }
+  ]
+}
